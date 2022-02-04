@@ -1,4 +1,7 @@
-# Hi, Glad to see you! 👋
+<p align="center">
+	<h2 align="center">Hi, Glad to see you! 👋<br><br>I'm Daniel Batalichev // Wismute</h2>
+	<p align="center"><b>Python Developer</b> working on VK & Telegram Bots, Web Services & APIs</p>
+</p>
 
 <p align="center">
 	<a align='center' style="float:left;" href="https://vk.com/daniil_batalichev" target="_blank"><img height="40" width="40" fill="blue" src="https://img.icons8.com/glyph-neue/2x/ffffff/vk-com.svg"/><br>@daniil_batalichev</a> //
@@ -20,5 +23,6 @@ batalichev.pro
 ### Check out my socials 🎥<br><br>  ![Instagram](https://img.shields.io/badge/@daniil__batalichev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Twitter](https://img.shields.io/badge/Wismute__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ### Also get in contact via email ✉: <a href="mailto:daniil@batalichev.pro">daniil@batalichev.pro</a>
+<br><br>
 
-## Have a nice day! ✨
+<h2 align="center">Have a nice day! ✨</h2>
