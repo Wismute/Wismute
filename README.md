@@ -5,7 +5,7 @@
 
 <p align="center">
 	<br>@daniil_batalichev</a> //
-	<a align="center" style="float:left;" href="https://bataichev.pro" target="_blank">
+	<a align="center" style="float:left;" href="https://batalichev.pro" target="_blank">
 batalichev.pro
 	</a>
 </p>
