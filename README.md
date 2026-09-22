@@ -24,5 +24,3 @@ batalichev.pro
 
 ### Also get in contact via email ✉: <a href="mailto:daniil@batalichev.pro">daniil@batalichev.pro</a>
 <br><br>
-
-<h2 align="center">Have a nice day! ✨</h2>
