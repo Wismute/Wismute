@@ -1,5 +1,5 @@
 <p align="center">
-	<h2 align="center">Hi, Glad to see you! 👋<br><br>I'm Daniel Batalichev // Wismute</h2>
+	<h2 align="center">Hi<br><br>I'm Daniel Batalichev // Wismute</h2>
 	<p align="center"><b>Python Developer</b> working on VK & Telegram Bots, Web Services & APIs</p>
 </p>
 
